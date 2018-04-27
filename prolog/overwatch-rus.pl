@@ -75,7 +75,7 @@ hero(genji) :-
   
 hero(bastion) :-
   role(defence),
-  diff(easy),
+  diff(easy).
   
 hero(widow) :-
   role(defence),
